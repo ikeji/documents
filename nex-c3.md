@@ -9,7 +9,7 @@
 - レンズ
   - [純正 E 16mmF2.8](https://www.sony.jp/ichigan/products/SEL16F28/index.html) (C3につけると24mmの画角)
   - [純正 E 18-55mm F3.5-5.6](https://www.sony.jp/ichigan/products/SEL1855/) (C3につけると27-82.5mmの画角)
-
+  - Minolta MC Rokkor-PF 55mm f1.7 (C3につけて82.5mm)
 - AutoにするとISO感度はISO1600まで。
 - 手動だとISO12800まで上げられる。
   - ノイズが結構ある。実用的には1600までか。
